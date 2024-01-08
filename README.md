@@ -1,0 +1,1 @@
+This is the Estimated projection of stocks , based on previous trend and provided basic fundamental parameters which decides how the particular stocks behaves based on its fundamental and previous trend
